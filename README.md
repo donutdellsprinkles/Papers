@@ -1,6 +1,6 @@
 # Papers
 Something
-- This is a first time uploading a project here. It took quite a while but thankfully some indian dude saved me. 
+- This is a first time uploading a project here. It took quite a while to figure out how to upload it but thankfully some indian dude saved me. 
 - # Disclaimer:
 - The python project is the actual working rock, papers, scissors project.
 - Test folder is empty because its literally a test and RPSS is basically the same project but without the CSS and JS 
